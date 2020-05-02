@@ -1,9 +1,9 @@
-package co.cesarmeneses.examples.designpatterns.abstractfactory;
+package co.cesarmeneses.dp.creationals.abstractfactory;
 
 import org.junit.Test;
 
-import static co.cesarmeneses.examples.designpatterns.abstractfactory.Architecture.EMBER;
-import static co.cesarmeneses.examples.designpatterns.abstractfactory.Architecture.ENGINOLA;
+import static co.cesarmeneses.dp.creationals.abstractfactory.Architecture.EMBER;
+import static co.cesarmeneses.dp.creationals.abstractfactory.Architecture.ENGINOLA;
 import static org.junit.Assert.assertEquals;
 
 public class AbstracFactoryTest {

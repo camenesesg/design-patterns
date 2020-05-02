@@ -1,4 +1,4 @@
-package co.cesarmeneses.examples.designpatterns.bridge;
+package co.cesarmeneses.dp.structurals.bridge;
 
 public class Triangle extends Shape {
 

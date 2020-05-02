@@ -1,4 +1,4 @@
-package co.cesarmeneses.examples.designpatterns.abstractfactory;
+package co.cesarmeneses.dp.creationals.abstractfactory;
 
 public abstract class MMU {
 
