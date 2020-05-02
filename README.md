@@ -1,2 +1,9 @@
 # design-patterns
-Examples of many of design patterns in Java
+
+## Patron Bridge
+Sirve para desacoplar una abstracción de sus implementaciones, así ambas pueden variar independientemente.
+
+## Creationa patterns
+
+### Abstract Factory
+
