@@ -8,6 +8,10 @@ public class Pizza {
 
     private String topping = "";
 
+    public String getDough() {
+        return dough;
+    }
+
     public void setDough(String dough) {
         this.dough = dough;
     }
