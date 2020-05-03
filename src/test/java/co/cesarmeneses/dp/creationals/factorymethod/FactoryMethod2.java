@@ -1,4 +1,4 @@
-package co.cesarmeneses.dp.creationals;
+package co.cesarmeneses.dp.creationals.factorymethod;
 
 import co.cesarmeneses.dp.creationals.factorymethod2.Computer;
 import co.cesarmeneses.dp.creationals.factorymethod2.ComputerFactory;
