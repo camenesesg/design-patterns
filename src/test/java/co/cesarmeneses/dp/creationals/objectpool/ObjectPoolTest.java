@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import java.sql.Connection;
 
+import static org.junit.Assert.assertNotNull;
+
 public class ObjectPoolTest {
 
     @Test
@@ -18,5 +20,7 @@ public class ObjectPoolTest {
         Connection con = pool.checkOut();
 
         pool.checkIn(con);
+
+        assertNotNull(pool);
     }
 }
